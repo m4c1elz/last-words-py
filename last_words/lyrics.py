@@ -110,7 +110,7 @@ def lyrics():
     sleep(2)
     write_with_delay("song: Last Words of a Shooting Star\n", 0.05)
     sleep(2)
-    write_with_delay("made with love my maciel", 0.05)
+    write_with_delay("made with love by maciel", 0.05)
     sleep(7)
 
 def _test():
