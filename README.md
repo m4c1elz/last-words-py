@@ -1,6 +1,6 @@
 # last_words.py
 
-Mitski's Last Words of a Shooting Star, entirely remade in a command-line interface.
+Mitski's Last Words of a Shooting Star, now on your terminal.
 ![program demo](demo.gif)
 
 # Setup
